@@ -1,0 +1,8 @@
+Nov 04, 2018 7:35:44 PM biotopsteuerung.steuerung.menue.MainMenu$1 actionPerformed
+SCHWERWIEGEND: LOG DAT SHIT
+Nov 04, 2018 7:35:44 PM biotopsteuerung.steuerung.menue.MainMenu$1 actionPerformed
+FEIN: fine
+Nov 04, 2018 7:35:44 PM biotopsteuerung.steuerung.menue.MainMenu$1 actionPerformed
+WARNUNG: warning
+Nov 04, 2018 7:35:44 PM biotopsteuerung.steuerung.menue.MainMenu$1 actionPerformed
+FEIN: fine fine()
